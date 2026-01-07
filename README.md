@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack Developer<br>Looking  for a web  developer job<br>I am currently learning web development<br>Engineer
+Full stack Developer<br>I am currently learning web development<br>Engineer
 
 
 ## 🌐 Socials:
