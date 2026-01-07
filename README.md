@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am  a fresher<br>Looking  for a web  developer job<br>i am currently learning web development
+Full stack Developer<br>Looking  for a web  developer job<br>I am currently learning web development<br>Engineer
 
 
 ## 🌐 Socials:
