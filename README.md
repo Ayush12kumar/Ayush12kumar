@@ -14,9 +14,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-I'm a **UI/UX Designer and Frontend Developer** based in Delhi, India — currently pursuing B.Tech in Computer Science (AI & ML) at NIET, Greater Noida (2022–2026).
-
 I specialize in bridging the gap between beautiful design and functional code. I practice **User-Centered Design (UCD)** and **Design Thinking** to build interfaces that are intuitive, accessible, and performant.
 
 - 🎯 Improved user experience efficiency by **30%** through structured user flows and usability heuristics
@@ -134,16 +131,7 @@ I specialize in bridging the gap between beautiful design and functional code. I
 
 ---
 
-## 🤝 Let's Connect
 
-I'm open to **freelance projects**, **full-time remote roles**, and **collaborations** in UI/UX Design or Frontend Development.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-a82876282/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jha859970@gmail.com)
-
-</div>
 
 ---
 
