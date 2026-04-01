@@ -70,25 +70,10 @@ I specialize in bridging the gap between beautiful design and functional code. I
 
 ---
 
-### 🎯 Landing Page Design & Development
-> High-converting landing page with optimized UX and performance.
 
-- Improved conversion rate by **15%** through strategic CTA placement and visual hierarchy
-- Reduced page load time by **30%** using optimized assets and efficient frontend practices
-- Built with: `HTML` `CSS` `JavaScript` `Figma` `Responsive Grid Systems`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayush12kumar)
 
 ---
 
-### 🤖 AI Object Detection System — UI Integration + Computer Vision
-> Real-time object detection with an intuitive frontend built on YOLOv5 and OpenCV.
-
-- Developed real-time detection with **25% reduced latency** using YOLOv5 + OpenCV
-- Designed and integrated a clean UI to enhance readability and user interaction for live video outputs
-- Built with: `Python` `YOLOv5` `OpenCV` `React.js`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayush12kumar)
 
 ---
 
@@ -117,17 +102,7 @@ I specialize in bridging the gap between beautiful design and functional code. I
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush12kumar&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush12kumar&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush12kumar&theme=default&hide_border=true)
-
-</div>
 
 ---
 
