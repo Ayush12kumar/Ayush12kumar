@@ -68,15 +68,6 @@ I specialize in bridging the gap between beautiful design and functional code. I
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayush12kumar)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-new-1bb5.vercel.app/)
 
----
-
-
-
----
-
-
----
-
 ## 💼 Experience
 
 ### Web Development Intern — CodSoft *(Sept 2024 – Oct 2024)*
